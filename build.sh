@@ -31,9 +31,6 @@ touch README.md
 touch entrypoint.sh
 touch requirements.txt
 
-mkdir $1/api
-touch $1/api/__init__.py
-
 mkdir $1/core
 touch $1/core/__init__.py
 touch $1/core/actions.py
