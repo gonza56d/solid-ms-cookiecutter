@@ -22,7 +22,6 @@ mkdir tests
 touch tests/__init__.py
 
 mkdir env
-touch env/.$1.env
 touch Makefile
 
 touch .flake8
