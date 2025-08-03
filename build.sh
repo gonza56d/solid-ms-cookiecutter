@@ -64,3 +64,5 @@ touch $1/orm/repositories.py
 
 mkdir $1/rest_client
 touch $1/rest_client/__init__.py
+
+echo " *** Successfully initialized $1 ***"
